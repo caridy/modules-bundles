@@ -14,7 +14,7 @@
     "build"
   ],
   "author": "Caridy Patiño <caridy@gmail.com>",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "chai": "^1.9.1",
     "mocha": "^2.0.1"
